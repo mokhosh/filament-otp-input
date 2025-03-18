@@ -1,23 +1,22 @@
 {
-    "name": "hasan-ahani/filament-otp-input",
+    "name": "mokhosh/filament-otp-input",
     "description": "Otp input for filament",
     "keywords": [
-        "hasan-ahani",
         "laravel",
         "filament",
         "otp-input",
         "filament-form"
     ],
-    "homepage": "https://github.com/hasan-ahani/filament-otp-input",
+    "homepage": "https://github.com/mokhosh/filament-otp-input",
     "support": {
-        "issues": "https://github.com/hasan-ahani/filament-otp-input/issues",
-        "source": "https://github.com/hasan-ahani/filament-otp-input"
+        "issues": "https://github.com/mokhosh/filament-otp-input/issues",
+        "source": "https://github.com/mokhosh/filament-otp-input"
     },
     "license": "MIT",
     "authors": [
         {
-            "name": "Hasan Ahani",
-            "email": "hasanahani.ir@gmail.com",
+            "name": "Mo Khosh",
+            "email": "mskhoshnazar@gmail.com",
             "role": "Developer"
         }
     ],
